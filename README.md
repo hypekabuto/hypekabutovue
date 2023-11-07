@@ -1,5 +1,5 @@
-# hypekabutovue
-
+# 个人博客系统的前端页面（近期完成）
+# 基于Vue2 以及 ElementUI
 ## Project setup
 ```
 npm install
